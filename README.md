@@ -1,6 +1,6 @@
 # 每日大赛官方网页版 每日大赛在线网页版 每日大赛在线版 每日官网大赛 每日大赛在线观看 每日大赛yandex网页版入口 每日官网大赛在线
 
-# 每日大赛 - 网页版：[https://www.mrds-blog.cloud](https://www.mrds-blog.cloud)
+# ☞每日大赛 - 网页版：[https://www.mrds-blog.cloud](https://www.mrds-blog.cloud)
 
 [每日大赛网页版](https://www.mrds-blog.cloud)为用户提供了随时随地参与赛事的便捷体验，无需下载，即可轻松开启精彩竞技之旅。无论是在办公间隙还是休闲时光，只需打开浏览器，即可快速进入比赛世界。
 
